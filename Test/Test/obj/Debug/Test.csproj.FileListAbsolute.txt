@@ -1,0 +1,6 @@
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\Test\Test\bin\Debug\Test.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\Test\Test\bin\Debug\Test.pdb
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\Test\Test\obj\Debug\Test.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\Test\Test\obj\Debug\Test.pdb

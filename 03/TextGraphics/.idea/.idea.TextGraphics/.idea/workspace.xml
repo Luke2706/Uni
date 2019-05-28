@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb5b815d-071c-4e38-8268-8fb15d837b3f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-576">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <marker date="1557737762981" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+                <marker date="1557737762981" expanded="false" signature="242:279" ph="..." />
+                <marker date="1557737762981" expanded="true" signature="303:2209" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="367:2207" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="650:747" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="839:888" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="952:1066" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1013:1060" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1352:1512" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1397:1506" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1445:1498" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1536:1577" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1652:2203" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1865:2096" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="1913:2042" ph="{...}" />
+                <marker date="1557737762981" expanded="true" signature="2165:2197" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+              <folding>
+                <marker date="1558222161495" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+                <marker date="1558222161495" expanded="false" signature="242:358" ph="..." />
+                <marker date="1558222161495" expanded="true" signature="382:3428" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="425:3426" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="558:3422" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="2600:2781" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="2672:2729" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="2840:2895" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="2908:2947" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="2969:3368" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="3086:3146" ph="{...}" />
+                <marker date="1558222161495" expanded="true" signature="3276:3336" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scene.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <marker date="1558223981774" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+                <marker date="1558223981774" expanded="true" signature="258:3085" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="324:3083" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="460:721" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="596:711" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="847:1214" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="1052:1204" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="1340:1799" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="1366:1789" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="1600:1742" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="1900:2442" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="2026:2220" ph="/* if last is null it also implicates that First is empty. So 'First' gets set. ... */" />
+                <marker date="1558223981774" expanded="true" signature="2250:2314" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="2331:2399" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="2534:3077" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="2696:3067" ph="{...}" />
+                <marker date="1558223981774" expanded="true" signature="2775:3053" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shape.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="9" column="130" selection-start-line="9" selection-start-column="130" selection-end-line="9" selection-end-column="130" />
+              <folding>
+                <marker date="1558224128467" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+                <marker date="1558224128467" expanded="true" signature="273:883" ph="{...}" />
+                <marker date="1558224128467" expanded="true" signature="280:470" ph="/* Shape base class, representing a 2d geometric object: ... */" />
+                <marker date="1558224128467" expanded="true" signature="494:881" ph="{...}" />
+                <marker date="1558224128467" expanded="true" signature="675:722" ph="{...}" />
+                <marker date="1558224128467" expanded="true" signature="855:875" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shapes/Rectangle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+              <folding>
+                <marker date="1558223634155" expanded="true" signature="44:1809" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="51:234" ph="/// Implementation of the Rectangle classes. The Rectangle class inherit from the Shape Class. ... " />
+                <marker date="1558223634155" expanded="true" signature="269:1234" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="359:435" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="503:1228" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="825:965" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="1080:1218" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="1280:1802" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="1391:1411" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="1479:1796" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="1611:1786" ph="{...}" />
+                <marker date="1558223634155" expanded="true" signature="1674:1772" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Shapes/Point.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <folding>
+                <marker date="1558224283822" expanded="true" signature="48:499" ph="{...}" />
+                <marker date="1558224283822" expanded="true" signature="54:161" ph="/// Implementation of the Point class which inherit from the Shape Class ... " />
+                <marker date="1558224283822" expanded="true" signature="192:496" ph="{...}" />
+                <marker date="1558224283822" expanded="true" signature="253:273" ph="{...}" />
+                <marker date="1558224283822" expanded="true" signature="341:490" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shapes/Line.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+              <folding>
+                <marker date="1558223634144" expanded="true" signature="44:1056" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="51:161" ph="/// Implementation of the Line classes which inherit from the Shape Class ... " />
+                <marker date="1558223634144" expanded="true" signature="201:607" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="283:330" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="398:601" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="509:591" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="646:1054" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="727:776" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="844:1048" ph="{...}" />
+                <marker date="1558223634144" expanded="true" signature="956:1038" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paint</find>
+      <find>element</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Shapes/Line.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shapes/Rectangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shapes/Point.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Image.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Image.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Shapes/Rectangle.cs" />
+        <option value="$PROJECT_DIR$/Shapes/Line.cs" />
+        <option value="$PROJECT_DIR$/Scene.cs" />
+        <option value="$PROJECT_DIR$/Shape.cs" />
+        <option value="$PROJECT_DIR$/Shapes/Point.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TextGraphics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TextGraphics" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TextGraphics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TextGraphics" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TextGraphics" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shapes" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Program.cs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/TextGraphics.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="1" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TextGraphics.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb5b815d-071c-4e38-8268-8fb15d837b3f" name="Default Changelist" comment="" />
+      <created>1557129111799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557129111799</updated>
+      <workItem from="1557129115418" duration="799000" />
+      <workItem from="1557521576261" duration="6792000" />
+      <workItem from="1557733766764" duration="4145000" />
+      <workItem from="1557768911098" duration="4224000" />
+      <workItem from="1557912816583" duration="80000" />
+      <workItem from="1558222009941" duration="2279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18319000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18122977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32820514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982906" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32649574" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12307692" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="scene.Last" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="6" selection-end-column="12" />
+          <folding>
+            <marker date="1557129108000" expanded="true" signature="6:62" ph="..." />
+            <marker date="1557129108000" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1557129108000" expanded="true" signature="562:772" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1557129108000" expanded="true" signature="947:1274" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <marker date="1557737762981" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+            <marker date="1557737762981" expanded="false" signature="242:279" ph="..." />
+            <marker date="1557737762981" expanded="true" signature="303:2209" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="367:2207" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="650:747" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="839:888" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="952:1066" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1013:1060" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1352:1512" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1397:1506" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1445:1498" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1536:1577" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1652:2203" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1865:2096" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="1913:2042" ph="{...}" />
+            <marker date="1557737762981" expanded="true" signature="2165:2197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding>
+            <marker date="1558222161495" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+            <marker date="1558222161495" expanded="false" signature="242:358" ph="..." />
+            <marker date="1558222161495" expanded="true" signature="382:3428" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="425:3426" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="558:3422" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="2600:2781" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="2672:2729" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="2840:2895" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="2908:2947" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="2969:3368" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="3086:3146" ph="{...}" />
+            <marker date="1558222161495" expanded="true" signature="3276:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <marker date="1558223981774" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+            <marker date="1558223981774" expanded="true" signature="258:3085" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="324:3083" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="460:721" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="596:711" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="847:1214" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="1052:1204" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="1340:1799" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="1366:1789" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="1600:1742" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="1900:2442" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="2026:2220" ph="/* if last is null it also implicates that First is empty. So 'First' gets set. ... */" />
+            <marker date="1558223981774" expanded="true" signature="2250:2314" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="2331:2399" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="2534:3077" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="2696:3067" ph="{...}" />
+            <marker date="1558223981774" expanded="true" signature="2775:3053" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="9" column="130" selection-start-line="9" selection-start-column="130" selection-end-line="9" selection-end-column="130" />
+          <folding>
+            <marker date="1558224128467" expanded="true" signature="0:234" ph="/* Nuremberg Institute of Applied Technology - Faculty of Computer Science ... */" />
+            <marker date="1558224128467" expanded="true" signature="273:883" ph="{...}" />
+            <marker date="1558224128467" expanded="true" signature="280:470" ph="/* Shape base class, representing a 2d geometric object: ... */" />
+            <marker date="1558224128467" expanded="true" signature="494:881" ph="{...}" />
+            <marker date="1558224128467" expanded="true" signature="675:722" ph="{...}" />
+            <marker date="1558224128467" expanded="true" signature="855:875" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shapes/Rectangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <marker date="1558223634155" expanded="true" signature="44:1809" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="51:234" ph="/// Implementation of the Rectangle classes. The Rectangle class inherit from the Shape Class. ... " />
+            <marker date="1558223634155" expanded="true" signature="269:1234" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="359:435" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="503:1228" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="825:965" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="1080:1218" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="1280:1802" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="1391:1411" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="1479:1796" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="1611:1786" ph="{...}" />
+            <marker date="1558223634155" expanded="true" signature="1674:1772" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shapes/Line.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <marker date="1558223634144" expanded="true" signature="44:1056" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="51:161" ph="/// Implementation of the Line classes which inherit from the Shape Class ... " />
+            <marker date="1558223634144" expanded="true" signature="201:607" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="283:330" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="398:601" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="509:591" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="646:1054" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="727:776" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="844:1048" ph="{...}" />
+            <marker date="1558223634144" expanded="true" signature="956:1038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shapes/Point.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <marker date="1558224283822" expanded="true" signature="48:499" ph="{...}" />
+            <marker date="1558224283822" expanded="true" signature="54:161" ph="/// Implementation of the Point class which inherit from the Shape Class ... " />
+            <marker date="1558224283822" expanded="true" signature="192:496" ph="{...}" />
+            <marker date="1558224283822" expanded="true" signature="253:273" ph="{...}" />
+            <marker date="1558224283822" expanded="true" signature="341:490" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

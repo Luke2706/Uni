@@ -1,0 +1,12 @@
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.csprojAssemblyReference.cache
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\bin\Debug\TextGraphics.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\bin\Debug\TextGraphics.pdb
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.pdb
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\bin\Debug\TextGraphics.exe
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\bin\Debug\TextGraphics.pdb
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.csprojAssemblyReference.cache
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.exe
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\03\TextGraphics\obj\Debug\TextGraphics.pdb

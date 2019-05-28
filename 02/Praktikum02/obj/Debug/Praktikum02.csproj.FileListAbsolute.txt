@@ -1,0 +1,12 @@
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\bin\Debug\Praktikum02.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\bin\Debug\Praktikum02.pdb
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.csprojAssemblyReference.cache
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.pdb
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\bin\Debug\Praktikum02.exe
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\bin\Debug\Praktikum02.pdb
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.csprojAssemblyReference.cache
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.csproj.CoreCompileInputs.cache
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.exe
+C:\Users\Luke\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\02\Praktikum02\obj\Debug\Praktikum02.pdb

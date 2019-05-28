@@ -1,0 +1,6 @@
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\01\Polygon\Polygon\bin\Release\Polygon.exe.config
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\01\Polygon\Polygon\bin\Release\Polygon.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\01\Polygon\Polygon\bin\Release\Polygon.pdb
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\01\Polygon\Polygon\obj\Release\Polygon.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\01\Polygon\Polygon\obj\Release\Polygon.exe
+C:\Users\Lukas\OneDrive\Dokumente\Uni\Lehrnunterlagen\2. Semester\Prog II\Praktikum\01\Polygon\Polygon\obj\Release\Polygon.pdb
