@@ -3,6 +3,11 @@ using System.Collections;
 
 namespace Aufgabe4
 {
+    
+    /// <summary>
+    /// Implementation of the Kennzeichen classes. 
+    /// </summary>
+   
     public abstract class KennzeichenTeile<T> : IComparer
     {
         private static readonly Type Kennzeichen = typeof(Kennzeichen);
@@ -16,7 +21,7 @@ namespace Aufgabe4
 
         public int Compare(object x, object y)
         {
-            // if objects are not of type Kennzeichen escape with -1
+            // if objects are not of type Kennzeichen escape with -1. Otherwise the compare wouldn't work
             if (!Kennzeichen.IsInstanceOfType(x) || !Kennzeichen.IsInstanceOfType(y))
                 return -1;
 
@@ -28,6 +33,7 @@ namespace Aufgabe4
 
         protected abstract int Compare(Kennzeichen a, Kennzeichen b);
 
+        // Method to check if the input data are letters (only) and the length is not exceeded 
         protected static bool CheckMaxLetters(string data, int maxSize)
         {
             bool IsLetter(char check)
@@ -37,8 +43,8 @@ namespace Aufgabe4
 
             for (int i = 0; i < data.Length; i++)
             {
-                if (!IsLetter(data[i])) return false;
-                if (i >= maxSize) return false;
+                if (!IsLetter(data[i])) return false; // if char is not an letter escape with false
+                if (i >= maxSize) return false; //input is to long escape with false
             }
 
             return true;
@@ -51,7 +57,7 @@ namespace Aufgabe4
 
         public KennzeichenOrt(string data)
         {
-            if (!CheckMaxLetters(data, 3)) throw new InvalidKennzeichenStringException("Ort", data, 3);
+            if (!CheckMaxLetters(data, 3)) throw new InvalidKennzeichenStringException("Ort", data, 3); // verify if input is correct otherwise a exception is thrown 
             Data = data;
         }
 
@@ -67,7 +73,7 @@ namespace Aufgabe4
 
         public KennzeichenBuchstabe(string data)
         {
-            if (!CheckMaxLetters(data, 2)) throw new InvalidKennzeichenStringException("Buchstabe", data, 2);
+            if (!CheckMaxLetters(data, 2)) throw new InvalidKennzeichenStringException("Buchstabe", data, 2); // verify if input is correct otherwise a exception is thrown 
             Data = data;
         }
 
@@ -83,7 +89,7 @@ namespace Aufgabe4
 
         public KennzeichenZahl(int data)
         {
-            if (data < 1 || data > 9999) throw new InvalidKennzeichenIntergerExecption(1, 9999, data);
+            if (data < 1 || data > 9999) throw new InvalidKennzeichenIntergerExecption(1, 9999, data); // verify if input is correct otherwise a exception is thrown 
             Data = data;
         }
 

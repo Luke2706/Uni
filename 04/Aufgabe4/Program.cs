@@ -9,21 +9,21 @@ namespace Aufgabe4
         {
             KennzeichenOrt[] dbOrte =
             {
-                new KennzeichenOrt("S"), 
-                new KennzeichenOrt("N"), 
+                new KennzeichenOrt("S"),
+                new KennzeichenOrt("N"),
                 new KennzeichenOrt("HAC")
             };
 
             KennzeichenBuchstabe[] dbBuchstaben =
             {
-                new KennzeichenBuchstabe("IN"), 
+                new KennzeichenBuchstabe("IN"),
                 new KennzeichenBuchstabe("IT"),
                 new KennzeichenBuchstabe("K")
             };
 
             KennzeichenZahl[] dbZahlen =
             {
-                new KennzeichenZahl(1337), 
+                new KennzeichenZahl(1337),
                 new KennzeichenZahl(2019),
                 new KennzeichenZahl(512)
             };
@@ -49,7 +49,8 @@ namespace Aufgabe4
             Array.Sort(alleKennzeichen, (IComparer) new KennzeichenZahl(1));
             for (int i = 0; i < alleKennzeichen.Length; i++)
                 Console.WriteLine(alleKennzeichen[i]);
-
+            
+            //several try/catch blocks with false input so a exception is thrown  
             try
             {
                 KennzeichenZahl invalid = new KennzeichenZahl(12345);
